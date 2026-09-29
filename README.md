@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Vansh Sharma 👋
 
-<!--
-**vanshsharma6261/vanshsharma6261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+I'm currently building my foundation in software development, problem solving and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+- C++ & Data Structures and Algorithms
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- AI Agents
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+C++, Python, SQL
+
+**Currently Exploring:**  
+NumPy, Pandas, Machine Learning, Git & GitHub
+
+### 📌 Goals
+
+- Build strong DSA and problem-solving skills
+- Develop practical AI/ML projects
+- Gain real-world internship experience
+- Explore AI Agents and intelligent systems
+
+### 📂 Projects
+
+Coming soon...
+
+### 📫 Connect With Me
+
+- LinkedIn: Coming soon
+- Email: vanshsharma6261@gmail.com
